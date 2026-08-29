@@ -36,7 +36,7 @@ data-driven applications and intelligent solutions.
 
 ## 🌐 Portfolio
 
-Portfolio deployment link will be added after deployment.
+Portfolio - https://rinkitala-commits.github.io/jhumarani-portfolio/
 
 ## 📫 Contact
 
