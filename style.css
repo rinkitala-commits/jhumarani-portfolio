@@ -989,6 +989,13 @@ footer {
 
   animation: profileFloat 4s ease-in-out infinite;
 }
+.profile-placeholder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+}
 
 .profile-placeholder span {
   font-size: 70px;
