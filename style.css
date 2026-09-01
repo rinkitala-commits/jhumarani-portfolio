@@ -135,9 +135,9 @@ header {
 /* Mobile Navigation */
 
 @media (max-width: 768px) {
-  .hero {
-    padding-top: 120px;
-  }
+   .hero-image {
+     margin-top: 80px;
+   }
   .navbar {
     flex-direction: column;
     gap: 15px;
