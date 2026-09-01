@@ -6,7 +6,7 @@ html {
   scroll-behavior: smooth;
 }
 section {
-  scroll-margin-top: 9 0px;
+  scroll-margin-top: 90px;
 }
 /* ================================
    General Styles
@@ -166,7 +166,7 @@ header {
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 100px 20px 50px;
+  padding: 180px 20px 50px;
 }
 
 .hero-content {
